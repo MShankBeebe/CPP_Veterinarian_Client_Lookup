@@ -1,5 +1,6 @@
 # CPP_Veterinarian_Schedular
-# Created by Megan Shank Beebe, 12/2023, final project for Computer Science 2
+
+Created by Megan Shank Beebe, 12/2023, final project for Computer Science 2
 
      A program designed to store, search, and retreive pet and owner information.  Eventually, I would like to expand it into a schedular to make appointments.  
      
